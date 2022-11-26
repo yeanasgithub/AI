@@ -1,2 +1,2 @@
-# AI
-Projects from Artifical Intelligence 
+# Artificial Intelligence 
+# AI + X
